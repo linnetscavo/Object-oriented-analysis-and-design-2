@@ -1,0 +1,10 @@
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.csproj.AssemblyReference.cache
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.Forms.BuilderForm.resources
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.Forms.MainForm.resources
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.Properties.Resources.resources
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\bin\Debug\PCBuilderApp.exe
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\bin\Debug\PCBuilderApp.pdb
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.exe
+C:\Users\HOME\Desktop\6 семестр\imitationModulation\PCBuilderApp\PCBuilderApp\obj\Debug\PCBuilderApp.pdb
