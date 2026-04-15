@@ -1,0 +1,7 @@
+{
+    "cities": [
+        {"name": "Miami", "temp_f": 95.0, "condition": "sunny", "humidity": 80},
+        {"name": "Sydney", "temp_f": 68.0, "condition": "partly cloudy", "humidity": 55},
+        {"name": "Tomsk", "temp_f": 59.0, "condition": "cloudy", "humidity": 70}
+    ]
+}

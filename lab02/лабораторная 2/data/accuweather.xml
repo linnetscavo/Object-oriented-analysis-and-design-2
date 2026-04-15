@@ -1,0 +1,17 @@
+<weather>
+    <city name="Miami">
+        <temp_c>35.0</temp_c>
+        <condition>sunny</condition>
+        <humidity>75</humidity>
+    </city>
+    <city name="Sydney">
+        <temp_c>20.0</temp_c>
+        <condition>clear</condition>
+        <humidity>60</humidity>
+    </city>
+    <city name="Tomsk">
+        <temp_c>15.0</temp_c>
+        <condition>rainy</condition>
+        <humidity>85</humidity>
+    </city>
+</weather>
